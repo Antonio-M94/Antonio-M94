@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonio-m94&label=Profile%20views&color=0e75b6&style=flat" alt="antonio-m94" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonio-m94" alt="antonio-m94" /></a> </p>
-
 - 🔭 I’m currently working on **Restaurant Web App**
 
 - 🌱 I’m currently learning **MySQL**
@@ -28,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonio-m94&show_icons=true&locale=en" alt="antonio-m94" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-m94&" alt="antonio-m94" /></p>
-
