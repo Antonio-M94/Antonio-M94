@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MySQL**
 
-- 👨‍💻 All of my projects are available at [https://iamedev-production.up.railway.app](https://iamedev-production.up.railway.app)
+- 👨‍💻 All of my projects are available at [https://iamedev.vercel.app/](https://iamedev.vercel.app/)
 
 - 💬 Ask me about **React js**
 
